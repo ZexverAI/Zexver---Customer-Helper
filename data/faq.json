@@ -1,0 +1,57 @@
+[
+  {
+    "id": "what-is-zexverai",
+    "question": "What is ZexverAI?",
+    "aliases": [
+      "What is Zexver AI",
+      "Tell me about ZexverAI",
+      "Explain ZexverAI"
+    ],
+    "keywords": ["about", "introduction", "AI assistant"],
+    "answer": "ZexverAI is an AI assistant project. Check the official information channels on this Discord server for confirmed details about its features and capabilities."
+  },
+  {
+    "id": "how-to-use",
+    "question": "How to use ZexverAI?",
+    "aliases": [
+      "How do I use ZexverAI?",
+      "How can I start using ZexverAI?",
+      "How to get started"
+    ],
+    "keywords": ["start", "beginner", "guide", "usage"],
+    "answer": "To learn how to use ZexverAI, check the official guides and information channels on this Discord server."
+  },
+  {
+    "id": "is-free",
+    "question": "Is ZexverAI free?",
+    "aliases": [
+      "Does ZexverAI cost money?",
+      "Is ZexverAI free to use?",
+      "How much does ZexverAI cost?"
+    ],
+    "keywords": ["free", "pricing", "cost", "plans"],
+    "answer": "Please check the official ZexverAI plan information on this Discord server for the current pricing and usage limits."
+  },
+  {
+    "id": "report-problem",
+    "question": "How do I report a problem?",
+    "aliases": [
+      "How to report a bug",
+      "I found an error",
+      "Something is not working"
+    ],
+    "keywords": ["bug", "error", "issue", "broken", "problem"],
+    "answer": "Please describe the problem in the #support channel. Include the error message and the steps needed to reproduce the issue, if possible."
+  },
+  {
+    "id": "contact-support",
+    "question": "How can I contact support?",
+    "aliases": [
+      "Where can I get help?",
+      "I need help",
+      "How to get support"
+    ],
+    "keywords": ["help", "contact", "support"],
+    "answer": "Visit the #support channel on the official ZexverAI Discord server to get further assistance."
+  }
+]
