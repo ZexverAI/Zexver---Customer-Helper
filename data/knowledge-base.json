@@ -1,1 +1,58 @@
-
+[
+  {
+    "id": "what-is-zexverai",
+    "title": "What is ZexverAI?",
+    "content": "ZexverAI is an AI project focused on providing users with an accessible and helpful AI experience.",
+    "keywords": ["zexverai", "zexver", "artificial intelligence", "ai", "project"],
+    "aliases": ["What is Zexver?", "Tell me about ZexverAI", "Explain ZexverAI"]
+  },
+  {
+    "id": "getting-started",
+    "title": "Getting Started with ZexverAI",
+    "content": "To get started with ZexverAI, visit the official ZexverAI platform and follow the instructions available there. If you need help, contact the support team through the official Discord server.",
+    "keywords": ["getting started", "start", "begin", "guide", "setup", "how to use"],
+    "aliases": ["How do I start?", "How to use ZexverAI?", "How do I get started?"]
+  },
+  {
+    "id": "plans-and-pricing",
+    "title": "Plans and Pricing",
+    "content": "Check the official ZexverAI platform or announcements for the current information about available plans, features, and usage limits.",
+    "keywords": ["plans", "pricing", "price", "free", "paid", "subscription", "limits"],
+    "aliases": ["Is ZexverAI free?", "What plans are available?", "Are there usage limits?"]
+  },
+  {
+    "id": "features",
+    "title": "ZexverAI Features",
+    "content": "For accurate information about current ZexverAI features, consult the official documentation and announcements. Features may change as the project develops.",
+    "keywords": ["features", "tools", "capabilities", "functions", "what can it do"],
+    "aliases": ["What can ZexverAI do?", "What features are available?"]
+  },
+  {
+    "id": "troubleshooting",
+    "title": "Troubleshooting Common Problems",
+    "content": "If ZexverAI does not work as expected, describe the problem clearly, include any relevant error message, and contact the support team through the official Discord server.",
+    "keywords": ["error", "problem", "bug", "broken", "not working", "troubleshooting", "fix"],
+    "aliases": ["ZexverAI is not working", "I found a bug", "How do I report an error?"]
+  },
+  {
+    "id": "contact-support",
+    "title": "Contacting Support",
+    "content": "If you need assistance, visit the official ZexverAI Discord server and use the designated support channel.",
+    "keywords": ["support", "help", "contact", "assistance", "staff"],
+    "aliases": ["How do I contact support?", "Where can I get help?", "I need help"]
+  },
+  {
+    "id": "report-a-problem",
+    "title": "Reporting a Problem",
+    "content": "When reporting a problem, explain what happened, what you expected to happen, and how the issue can be reproduced. Include screenshots or error messages when relevant.",
+    "keywords": ["report", "issue", "bug report", "feedback", "error message"],
+    "aliases": ["How do I report a problem?", "How can I report a bug?", "Something is wrong"]
+  },
+  {
+    "id": "privacy-and-security",
+    "title": "Privacy and Security",
+    "content": "For information about data collection, storage, privacy, and security, consult the official ZexverAI privacy documentation. Do not share passwords, authentication tokens, or other secrets in support channels.",
+    "keywords": ["privacy", "security", "data", "personal information", "password", "token"],
+    "aliases": ["Is my data safe?", "How is my data handled?", "How do I protect my account?"]
+  }
+]
