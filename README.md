@@ -4,11 +4,11 @@ Roblox Studio Builder | 3D Modeling | JavaScript Developer | Community Managemen
 
 About Me
 
-Hello! I'm an aspiring developer and builder interested in game development, technical projects, and community management.
+Hello! I'm an aspiring developer and builder interested in game development, technical projects,and community management.
 
 My main passion is Roblox Studio,especially 3D modeling,building, and environment design. I enjoy creating structures, designing environments, and thinking about how to improve gameplay experiences.
 
-Although building and modeling are my primary interests, I also have experience with programming, backend development, and creating Discord bots.
+Although building and modeling are my primary interests, I also have experience with programming,backend development, and creating Discord bots.
 
 Im always willing to learn new things, improve my skills, and collaborate with others.
 
